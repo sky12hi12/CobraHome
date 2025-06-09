@@ -2,5 +2,5 @@
 	path = CobraBench
 	url = https://github.com/DBCobra/CobraBench.git
 [submodule "CobraVerifierV2"]
-	path = CobraVerifierV2
+	path = CobraVerifier
 	url = https://github.com/sky12hi12/CobraVerifierV2.git
