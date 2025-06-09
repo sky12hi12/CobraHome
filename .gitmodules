@@ -1,6 +1,3 @@
-[submodule "CobraVerifier"]
-	path = CobraVerifier
-	url = https://github.com/DBCobra/CobraVerifier.git
 [submodule "CobraBench"]
 	path = CobraBench
 	url = https://github.com/DBCobra/CobraBench.git
